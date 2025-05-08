@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="ext-releases" />
+      <option name="name" value="ext-releases" />
+      <option name="url" value="http://artifactory-slc.oraclecorp.com/artifactory/cpqcs-ext-release-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="lib-releases" />
+      <option name="name" value="lib-releases" />
+      <option name="url" value="http://artifactory-slc.oraclecorp.com/artifactory/cpqcs-libs-release-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="lib-snapshots" />
+      <option name="name" value="lib-snapshots" />
+      <option name="url" value="http://artifactory-slc.oraclecorp.com/artifactory/cpqcs-libs-snapshot-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ext-snapshots" />
+      <option name="name" value="ext-snapshots" />
+      <option name="url" value="http://artifactory-slc.oraclecorp.com/artifactory/cpqcs-ext-snapshot-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+  </component>
+</project>
